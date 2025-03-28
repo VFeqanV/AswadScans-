@@ -1,0 +1,149 @@
+.lightmode{background:#eef0f2;color:#333}
+.lightmode a{color:#333}
+.lightmode a:hover{color:#366ad3}
+.lightmode .slider.round{background:rgba(255,255,255,0.25)}
+.lightmode .searchx #form #s{background-color:#fff;color:#555}
+.lightmode .searchx #form #submit{color:#ddd}
+.lightmode #live-search_results{background:#fff;box-shadow:0 0 3px rgba(0,0,0,.2)}
+.lightmode #live-search_results .live-search_result_container li{color:#888;border-bottom:1px solid #eee}
+.lightmode .live-search_result_container li:hover{background:#fcfcfc}
+.lightmode .live-search_result_container .over span{color:#888}
+.lightmode .bixbox{background:#FFF;box-shadow:1px 3px 8px rgba(49,49,49,0.1)}
+.lightmode p.index{background:#FFF;color:#000;box-shadow:0 2px 3px rgba(0,0,0,.1)}
+.lightmode p.index b{color:#000}
+.lightmode .bixbox .releases{border-bottom:1px solid #f1f1f1}
+.lightmode .releases h1,.lightmode .releases h3,.lightmode #sidebar .section h4{color:#366ad3}
+.lightmode .releases a.vl,.lightmode .scrollToTop{color:#FFF}
+.lightmode #sidebar .section{background:#FFF;box-shadow:1px 3px 8px rgba(49,49,49,0.1)}
+.lightmode .releases{border-bottom:1px solid #ececec}
+.lightmode .serieslist ul li{border-bottom:1px solid #ececec}
+.lightmode .serieslist ul li .ctr{color:#366ad3;border-color:#366ad3}
+.lightmode #sidebar .section ul.genre:before,.lightmode #sidebar .section ul.genre:after{background:#ececec}
+.lightmode #sidebar .section ul>li{border-color:#ececec}
+.lightmode .listupd .utao .uta{border-bottom:1px solid #f1f1f1}
+.lightmode .listupd .utao .uta .luf ul li span{color:#999}
+.lightmode .hpage a{color:#FFF}
+.lightmode .bs .bsx:hover .tt{color:#366ad3}
+.lightmode .bs .bsx .adds .rating i{color:#999}
+.lightmode .bs .bsx .adds .rating .rtg a:after{color:#d2d2d2}
+.lightmode .bs .bsx .adds .rating .rtg a.br-selected:after{color:#EDB867}
+.lightmode .bs .bsx .limit{background:#f6f6f6}
+.lightmode .postbody p.ctn{background:#f8f8f8}
+.lightmode .pagination span.page-numbers.current{color:#FFF}
+.lightmode .pagination a{background:#efefef}
+.lightmode #footer{background:#222}
+.lightmode .modex a,.lightmode .filter{color:#FFF}
+.lightmode .filter:hover{color:#222}
+.lightmode .nav_apb a{background:#e9e9e9}
+.lightmode .nav_apb a:hover{background:#366ad3;color:#FFF}
+.lightmode .soralist span{border-bottom:1px solid #ececec}
+.lightmode .animefull .bottom{border-top:1px solid #ececec}
+.lightmode .main-info .info-desc .desc{color:#333}
+.lightmode .bxcl ul li span.dt a{color:#FFF}
+.lightmode .bxcl ul li span.dt a:hover{background:#555}
+.lightmode .bookmark{color:#FFF}
+.lightmode .advancedsearch tr .inputx{background:#FFF;color:#333;border-color:#DDD}
+.lightmode .checkmarkx{background-color:#DDD}
+.lightmode .checkmark{background-color:#DDD}
+.lightmode .advancedsearch button.searchz{color:#FFF}
+.lightmode .surprise{color:#FFF}
+.lightmode .commentx textarea{border-color:#e1e1e1;color:#363636;background:#FFF}
+.lightmode #sidebar #bm-history li{border-color:#ececec}
+.lightmode #sidebar #bm-history li a:hover{box-shadow:none}
+.lightmode .lista{background:#f8f8f8;border-bottom:1px solid #ececec}
+.lightmode .lista a{background:#FFF;border:1px solid #e0e0e0}
+.lightmode .lista a:hover{background:#366ad3;color:#FFF;border-color:#366ad3}
+.lightmode .listo .bx{border-bottom:1px solid #ececec}
+.lightmode .postbody .ntf,.lightmode .hapus{color:#FFF}
+.lightmode .blogbox .boxlist .bma .bmb{background:#FFF;-webkit-box-shadow:0 2px 3px rgba(0,0,0,.1);-khtml-box-shadow:0 2px 3px rgba(0,0,0,.1);-moz-box-shadow:0 2px 3px rgba(0,0,0,.1);-ms-box-shadow:0 2px 3px rgba(0,0,0,.1);-o-box-shadow:0 2px 3px rgba(0,0,0,.1);box-shadow:0 2px 3px rgba(0,0,0,.1)}
+.lightmode .blogbox .boxlist .bma .bmb .bmba .bmbah h2{font-weight:400}
+.lightmode .blogbox .boxlist .bma .bmb .bmba .bmbaa{background:#f2f1f1}
+.lightmode .blogbox .btitle .vl{color:#FFF}
+.lightmode .bigblogt h1{color:inherit}
+.lightmode .bigblogt span{color:#999}
+.lightmode .bigblogt span a{color:#FFF}
+.lightmode .page.blog{color:inherit}
+.lightmode .blogbox .btitle h3,.lightmode .blogbox .btitle h1{color:#366ad3}
+.lightmode #sidebar .section .ts-wpop-series-gen .ts-wpop-nav-tabs{background:#f1f1f1}
+.lightmode .quickfilter .filters .filter button{background-color:#efefef;border-color:#efefef;color:#2f2f2f}
+.lightmode .quickfilter .filters .filter button:hover{color:#333;background-color:#d0d0d0;border-color:#d0d0d0}
+.lightmode .quickfilter .filters .filter ul{background-color:#fff;border:1px solid rgba(0,0,0,.15)}
+.lightmode .quickfilter .filters .filter ul label{color:#3c3c3c}
+.lightmode .quickfilter .filters .filter ul li input+label:before,.lightmode .quickfilter .filters .filter ul li input:not(:checked)+label:before{color:#DDD}
+.lightmode .rating-prc .rtp .rtb:before{color:#CCC}
+.lightmode #sidebar .serieslist ul li .leftseries h2 a{color:inherit}
+.lightmode #sidebar .serieslist ul li .leftseries h2 a:hover{color:#366ad3}
+.lightmode .bs.styletere .epxdate{color:#999}
+.lightmode .series-gen .nav-tabs{background:#f1f1f1}
+.lightmode #sidebar .section>select,.lightmode #sidebar .section>form>select{background:#f1f1f1;border-color:#f1f1f1;color:#555}
+.lightmode #sidebar .section #searchform #s{color:#555;background:#f1f1f1;border-color:#f1f1f1}
+.lightmode .releases h1,.lightmode .releases h2,.lightmode .releases h3,.lightmode #sidebar .section h4{color:inherit}
+.lightmode .main-info .info-desc h1,.lightmode .main-info .info-desc .wd-full b,.lightmode .main-info .info-desc .wd-full h2,.lightmode .main-info .info-desc .flex-wrap .fmed b{color:inherit}
+.lightmode .main-info .info-desc .wd-full .mgen a{color:#366ad3;border:.5px solid #366ad3;background:none}
+.lightmode .main-info .info-desc .wd-full .mgen a:hover{background:#366ad3;color:#FFF}
+.lightmode #searchchapter{background:#FAFAFA;border-color:#DDD;color:#555}
+.lightmode .bxcl ul li .chbox{background:#efefef;border-color:#efefef}
+.lightmode #gallery.owl-loaded .owl-dots span{background:#DDD}
+.lightmode .bxcl ul li .chbox:hover{background:#366ad3;border-color:#366ad3}
+.lightmode .bxcl ul li .chbox:hover .dt a{color:#FFF}
+.lightmode .bxcl ul li .chbox:hover .eph-num .chapternum{color:#FFF}
+.lightmode .bxcl ul li .chbox:hover .eph-num .chapterdate{color:rgba(255,255,255,0.5)}
+.lightmode .postbody .ntf{color:#856404;background-color:#fff3cd}
+.lightmode ul.taxindex li a{background:#f1f1f1;color:#333;font-weight:400}
+.lightmode ul.taxindex li a i{font-weight:500;color:#CCC}
+.lightmode ul.taxindex li a:hover{background:#366ad3;color:#FFF}
+.lightmode ul.taxindex li a:hover i{color:rgba(255,255,255,0.5)}
+.lightmode .listupd .utao.styletwo .uta .luf ul li a{font-weight:400;color:#555}
+.black{background:#16151d;color:#999}
+.black a{color:#DDD}
+.black .nextprev a{color:#FFF}
+.black a:hover{color:#FFF}
+.lightmode.black .bs .bsx a{color:#FFF}
+.lightmode.black .bixbox{background:#222}
+.lightmode.black .bixbox .releases{border-color:#312f40}
+.lightmode.black .bixbox .releases h2{color:#FFF}
+.lightmode.black .rating-prc .rtp .rtb::before{color:#686868}
+.lightmode .blogpost .entry-header h1{color:inherit}
+.lightmode .blogpost .entry-header .entry-meta{color:#999}
+.lightmode hr{border:1px solid #DDD}
+.lightmode .comment-list>li{border-color:#ececec}
+.lightmode .comment-list>li:hover{box-shadow:0 0 8px 0 rgba(0,0,0,.1)}
+.lightmode .comment-list .children{border-color:#ececec}
+.lightmode .commentx h3{color:#333}
+.lightmode .commentx #respond input[type="text"]{border-color:#e1e1e1;background:#FFF;color:#363636}
+.lightmode.black .comment-list>li{border-color:#312f40}
+.lightmode.black .comment-list .children{border-color:#312f40}
+.lightmode.black .commentx h3{color:#FFF}
+.lightmode.black .commentx textarea,.lightmode.black .commentx #respond input[type="text"]{color:#FFF;background-color:#343434;border-color:#343434}
+.lightmode .quickfilter .filters .filter .genrez::-webkit-scrollbar-track{background:#e8e8e8}
+.lightmode .imptdt i,.lightmode .imptdt a{color:#555}
+.lightmode .hothome .releases h2{background:#FFF}
+.lightmode .hothome .releases{border:0}
+.lightmode .home-genres .alman a{background:#FFF}
+.lightmode .socialbutton a{color:rgba(255,255,255,0.7)}
+.lightmode .bs.stylefor .bsx{border:1px solid #f1f1f1}
+.lightmode .bs.stylefor .bsx .bigor .adds .epxs{background:#f0f2f5;color:#333}
+.lightmode .seriestucon{background:#FFF;box-shadow:1px 3px 8px rgba(49,49,49,0.1)}
+.lightmode .seriestucon .seriestuhead h1,.lightmode #content .seriestere .seriestuheader h1{color:#333}
+.lightmode .seriestucon .seriestuhead .lastend .inepcx a{box-shadow:0 1px 2px #c1c1c1;color:#333;background:#f0f2f5}
+.lightmode .seriestucon .seriestucont .seriestucontr .infotable td{border:1px solid #ddd}
+.lightmode .seriestucon .seriestucont .seriestucontr .infotable td:nth-child(1){background:#f0f2f5;color:#555;font-weight:500}
+.lightmode .seriestucon .seriestucont .seriestucontr .seriestugenre a{color:#0c70de;border:.5px solid #0c70de;background:0 0}
+.lightmode .seriestucon .seriestucont .seriestucontr .seriestugenre a:hover{color:#FFF;background:#0c70de}
+.lightmode .seriestucon .seriestucont .seriestucontl .rating.bixbox,.lightmode #content .seriestere .seriestucontent .seriestucontl .rating{box-shadow:none;background:#f0f2f5}
+.lightmode .seriestu .seriestucon,.lightmode .seriestu .bixbox,lightmode .seriestu .alr{box-shadow:0 1px 2px #c1c1c1}
+.lightmode #content .seriestere .seriestucontent .seriestucontentr tr td{border-color:#DDD}
+.lightmode #content .seriestere .seriestucontent .seriestucontentr tr td:nth-child(1){color:inherit}
+.lightmode .home-genres{box-shadow:1px 3px 8px rgba(49,49,49,0.1)}
+.lightmode .bixbox .additional-content td,.lightmode .bixbox .additional-content th{border-color:#ddd}
+.lightmode .bixbox .additional-content tr:nth-child(even){background-color:#f5f5f5}
+.lightmode .bs.stylefiv .bsx .chfiv li a{background:#d2e3f7;color:#366ad3;}
+.lightmode .bs.stylefiv .bsx .chfiv li a:hover{background:#366ad3;color:#FFF}
+.lightmode .bloglist .blogbox .innerblog .infoblog .entry-content,.lightmode .bloglist .blogbox .innerblog .infoblog .entry-meta{color:#757575}
+@media only screen and (max-width:800px) {
+.lightmode .th,.lightmode.black .th{background:#366ad3}
+.lightmode.black .searchx #form #s{background-color:#fff;border:1px solid #ccc;color:#555}
+.lightmode.black .searchx #form #submit{color:#ddd}
+.lightmode .main-info .info-left .thumb{border-color:#eef0f2}
+.lightmode .main-info .info-left #mobiletitle #titlemove{color:#333}
+}
